@@ -1,0 +1,21 @@
+nav a
+{
+ text-decoration: none;
+ display:inline-block;
+ margin : 5px;
+ padding:10px;
+}
+nav
+{
+ background-color: #100f11;
+}
+.active
+{
+background-color: #1f1b1d; 
+} 
+.btn
+{
+    color: rgb(17, 19, 15);
+    border: rgb(20, 18, 20);
+
+}
